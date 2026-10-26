@@ -3,3 +3,9 @@
 3. pwd: Mevcut konumu gösterir
 4. mkdir: Yeni klasör oluşturur
 5. rm: Dosya siler
+
+1. git init: Yeni repo oluşturur
+2. git status: Durumu gösterir
+3. git add: Dosyaları sahneye alır
+4. git commit: Değişiklikleri kaydeder
+5. git log: Geçmişi gösterir
